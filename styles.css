@@ -1,0 +1,43 @@
+/* Add your CSS styles here */
+
+/* Style the header */
+header {
+    background: #111;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.logo img {
+    width: 100px;
+    height: auto;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+/* Style the main content sections */
+.main {
+    padding: 20px;
+}
+
+.featured {
+    /* Styles for the featured section */
+}
+
+.movies, .tv-shows {
+    /* Styles for the movies and TV shows sections */
+}
+
+/* Style the footer */
+footer {
+    /* Footer styles */
+}
